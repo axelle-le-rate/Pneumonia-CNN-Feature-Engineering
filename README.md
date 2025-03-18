@@ -4,8 +4,8 @@
 This project explores **feature engineering techniques** and **exploratory data analysis (EDA)** to improve **pneumonia detection** from chest X-ray images. The goal is to extract meaningful image features, visualize key patterns, and enhance the performance of machine learning models.  
 
 ## 🗂️ Dataset  
-- **Source**: [Chest X-ray Dataset (Kaggle)](https://www.kaggle.com/datasets)  
-- **Size**: 5,800+ labeled images (`Normal` / `Pneumonia`)  
+- Source: **[Chest X-ray Dataset (Kaggle)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)**  
+- Data Size: **5,800+ labeled images** (Normal/Pneumonia)    
 
 ## 🏗️ Feature Engineering & EDA Techniques  
 - 📊 **Data Exploration**: Distribution of pneumonia vs. normal cases, missing data handling  
