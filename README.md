@@ -48,7 +48,7 @@ jupyter notebook
 Open the Pneumonia_Feature_Engineering.ipynb file, and run all the cells in the notebook.
 
 ## ⚙️ Technologies Used
-Python · NumPy · Pandas · OpenCV · Matplotlib · Scikit-learn · Scikit-Image
+Python · NumPy · Pandas · OpenCV · Matplotlib · Scikit-learn · Scikit-Image * SciPy
 
 ## 📌 Future Improvements
 Explore deep learning-based feature extraction using CNNs.
