@@ -27,3 +27,30 @@ This project explores **feature engineering techniques** and **exploratory data 
 1. **Clone the repository**:  
    ```sh
    git clone https://github.com/YourGitHubUsername/Pneumonia-Feature-Engineering-EDA.git
+   
+2. **Install dependencies**:
+This project uses the following Python libraries:
+- TensorFlow
+- Keras
+- OpenCV
+- Matplotlib
+- os
+  
+To install these dependencies, use:
+```pip install -r requirements.txt  ```
+3. **Running the Jupyter Notebook** :
+Once you've cloned the repo and installed the dependencies, you can open and run the Jupyter Notebook.
+- Navigate to the directory where the repo is cloned.
+- Start Jupyter Notebook by running:
+ ```sh
+jupyter notebook
+ ```
+Open the Pneumonia_Feature_Engineering.ipynb file, and run all the cells in the notebook.
+
+## ⚙️ Technologies Used
+Python · NumPy · Pandas · OpenCV · Matplotlib · Scikit-learn
+
+## 📌 Future Improvements
+Explore deep learning-based feature extraction using CNNs.
+Compare handcrafted vs. automated features for ML performance.
+Use ensemble models to enhance prediction accuracy.
