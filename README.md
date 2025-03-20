@@ -45,7 +45,7 @@ Once you've cloned the repo and installed the dependencies, you can open and run
  ```sh
 jupyter notebook
  ```
-Open the Pneumonia_Feature_Engineering.ipynb file, and run all the cells in the notebook.
+Open the Pneumonia_Feature_Engineering-1.ipynb file, and run all the cells in the notebook.
 
 ## ⚙️ Technologies Used
 Python · NumPy · Pandas · OpenCV · Matplotlib · Scikit-learn · Scikit-Image · SciPy
