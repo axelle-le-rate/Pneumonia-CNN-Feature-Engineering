@@ -33,11 +33,13 @@ This project explores **feature engineering techniques** and **exploratory data 
    
 2. **Install dependencies**:
 This project uses the following Python libraries:
-- TensorFlow
-- Keras
-- OpenCV
+- NumPy
+- Pandas
 - Matplotlib
-- os
+- Sklearn
+- Skimage
+- Scipy
+- PIL
   
 To install these dependencies, use:
 ```pip install -r requirements.txt  ```
