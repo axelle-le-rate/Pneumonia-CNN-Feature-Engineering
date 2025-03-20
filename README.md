@@ -38,8 +38,8 @@ This project uses the following Python libraries:
 - Matplotlib
 - Sklearn
 - Skimage
-- Scipy
-- PIL
+- SciPy
+- Pillow
   
 To install these dependencies, use:
 ```pip install -r requirements.txt  ```
