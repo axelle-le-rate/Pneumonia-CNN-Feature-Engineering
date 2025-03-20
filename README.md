@@ -26,7 +26,7 @@ This project explores **feature engineering techniques** and **exploratory data 
 
 1. **Clone the repository**:  
    ```sh
-   git clone https://github.com/YourGitHubUsername/Pneumonia-Feature-Engineering-EDA.git
+   git clone https://github.com/axelle-le-rate/Pneumonia-Feature-Engineering-EDA.git
    
 2. **Install dependencies**:
 This project uses the following Python libraries:
