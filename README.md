@@ -54,3 +54,6 @@ Python · NumPy · Pandas · OpenCV · Matplotlib · Scikit-learn · Scikit-Imag
 - Explore deep learning-based feature extraction using CNNs.
 - Compare handcrafted vs. automated features for ML performance.
 - Use ensemble models to enhance prediction accuracy.
+
+## 📝 Note on ChatGPT Assistance
+During the development and debugging phases of this project, I referenced valuable conversations with ChatGPT that helped me resolve coding issues and improve the overall solution. Unfortunately, these conversations are no longer accessible due to platform limitations, so the specific details cannot be provided here. However, the guidance and debugging steps from those interactions were integral to the project.
