@@ -3,6 +3,9 @@
 ## 📌 Project Overview  
 This project explores **feature engineering techniques** and **exploratory data analysis (EDA)** to improve **pneumonia detection** from chest X-ray images. The goal is to extract meaningful image features, visualize key patterns, and enhance the performance of machine learning models.  
 
+📄 **View the Full Analysis Report:**  
+[Pneumonia-Feature-Engineering-1.ipynb](Pneumonia-Feature-Engineering-1.ipynb)  
+
 ## 🗂️ Dataset  
 - Source: **[Chest X-ray Dataset (Kaggle)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)**  
 - Data Size: **5,800+ labeled images** (Normal/Pneumonia)    
@@ -45,7 +48,7 @@ Once you've cloned the repo and installed the dependencies, you can open and run
  ```sh
 jupyter notebook
  ```
-Open the Pneumonia_Feature_Engineering-1.ipynb file, and run all the cells in the notebook.
+Open the Pneumonia-Feature-Engineering-1.ipynb file, and run all the cells in the notebook.
 
 ## ⚙️ Technologies Used
 Python · NumPy · Pandas · OpenCV · Matplotlib · Scikit-learn · Scikit-Image · SciPy
